@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk:17.0.4-jre
+FROM azul/zulu-openjdk:11.0.19-11.64.19-jre
 
 LABEL author="alvin0319" maintainer="me@minjae.dev"
 
